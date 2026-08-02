@@ -31,10 +31,7 @@ async function submitOrder() {
     form.pickupDate = ''
     form.breadQty = 0
     form.rollQty = 0
-  } catch (
-    // eslint-disable-line @typescript-eslint/no-explicit-any
-    error: any
-  ) {
+  } catch (error: any) {
     errors.value = error?.data?.data ?? {}
     status.value = 'error'
   }
