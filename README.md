@@ -79,9 +79,9 @@ The ACR login step expects three repository secrets:
 
 | Secret          | Value                                      |
 | --------------- | ------------------------------------------- |
-| `AZR_HOST`      | ACR login server, e.g. `myregistry.azurecr.io` |
-| `AZR_USERNAME`  | ACR admin username (or service principal id)   |
-| `AZR_PASSWORD`  | ACR admin password (or service principal secret) |
+| `ACR_HOST`      | ACR login server, e.g. `myregistry.azurecr.io` |
+| `ACR_USERNAME`  | ACR admin username (or service principal id)   |
+| `ACR_PASSWORD`  | ACR admin password (or service principal secret) |
 
 This pipeline deliberately stops at "image pushed to ACR" — it prepares the app for
 deployment. Rolling it out to a running service (e.g. Azure Container Apps or App
