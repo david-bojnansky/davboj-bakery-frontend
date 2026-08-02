@@ -1,8 +1,8 @@
 # DavBoj Bakery
 
 A small demo project for "DavBoj Bakery": a public-facing Nuxt 3 page where customers
-order bread and rolls for pickup. Built to demonstrate a GitHub Actions CI/CD pipeline
-that builds, tests, and pushes a container image to Azure Container Registry (ACR).
+order bread and rolls for pickup. **Built to demonstrate a GitHub Actions CI/CD pipeline
+that builds, tests, and pushes a container image to Azure Container Registry (ACR).**
 
 ## Features
 
