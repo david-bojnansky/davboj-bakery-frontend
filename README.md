@@ -12,7 +12,7 @@ in a virtual network for *internal services*:
 
 ## App Preview
 
-![Frontend Image 2](./images/DavBoj-Bakery-Frontend.png)
+![Frontend Image](./images/DavBoj-Bakery-Frontend.png)
 
 ## Topology
 
@@ -22,7 +22,7 @@ in a virtual network for *internal services*:
 
 ### All Resources
 
-![All Resources Topology Image](./images/DavBoj-Bakery-AllResources.png)
+![All Resources Topology Image 2](./images/DavBoj-Bakery-AllResources.png)
 
 ## Features
 
