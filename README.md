@@ -4,6 +4,26 @@ A small demo project for "DavBoj Bakery": a public-facing Nuxt 3 page where cust
 order bread and rolls for pickup. **Built to demonstrate a GitHub Actions CI/CD pipeline
 that builds, tests, and pushes a container image to Azure Container Registry (ACR).**
 
+## Backend
+
+In order to check new orders, the backend server must be deployed
+in a virtual network for *internal services*:
+[davboj-bakery-backend](https://github.com/david-bojnansky/davboj-bakery-backend).
+
+## App Preview
+
+![Frontend Image](./images/DavBoj-Bakery-Frontend.png)
+
+## Topology
+
+### VNets
+
+![VNet Topology Image](./images/DavBoj-Bakery-VNets.png)
+
+### All Resources
+
+![All Resources Topology Image](./images/DavBoj-Bakery-AllResources.png)
+
 ## Features
 
 - Order form (first name, last name, pickup date, bread quantity, roll quantity)
