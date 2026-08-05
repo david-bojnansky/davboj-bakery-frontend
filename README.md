@@ -12,7 +12,7 @@ in a virtual network for *internal services*:
 
 ## App Preview
 
-![Frontend Image](./images/DavBoj-Bakery-Frontend.png)
+![Frontend Image 2](./images/DavBoj-Bakery-Frontend.png)
 
 ## Topology
 
