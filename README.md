@@ -4,6 +4,11 @@ A small demo project for "DavBoj Bakery": a public-facing Nuxt 3 page where cust
 order bread and rolls for pickup. **Built to demonstrate a GitHub Actions CI/CD pipeline
 that builds, tests, and pushes a container image to Azure Container Registry (ACR).**
 
+## URL Address
+
+[davboj-bakery.germanywestcentral.cloudapp.azure.com](http://davboj-bakery.germanywestcentral.cloudapp.azure.com/) \
+*off to save credits*
+
 ## Backend
 
 In order to check new orders, the backend server must be deployed
