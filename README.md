@@ -6,7 +6,8 @@ that builds, tests, and pushes a container image to Azure Container Registry (AC
 
 ## URL Address
 
-[davboj-bakery.germanywestcentral.cloudapp.azure.com](http://davboj-bakery.germanywestcentral.cloudapp.azure.com/) \
+[davboj-bakery.germanywestcentral.cloudapp.azure.com (Container Instance)](http://davboj-bakery.germanywestcentral.cloudapp.azure.com/) \
+[davboj-bakery-fkgsgwcbeffse7ct.polandcentral-01.azurewebsites.net (Service App)](https://davboj-bakery-fkgsgwcbeffse7ct.polandcentral-01.azurewebsites.net/) \
 *off to save credits*
 
 ## Backend
