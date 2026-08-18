@@ -73,7 +73,7 @@ az cosmosdb sql container create \
 
 ### Scripts
 
-| Script              | Purpose                                   |
+| Script              | Purpose                                     |
 | -------------------- | ------------------------------------------ |
 | `npm run dev`        | Start the Nuxt dev server                  |
 | `npm run build`      | Production build (Node server output)      |
